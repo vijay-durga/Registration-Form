@@ -1,0 +1,68 @@
+.background-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+.head {
+  color: #ea580c;
+}
+
+.input-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.input-label {
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.input-text {
+  padding: 8px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.submit-btn {
+  background-color: #ea580c;
+  border: none;
+  padding: 5px;
+  width: 80px;
+  border-radius: 5px;
+  color: #ffffff;
+}
+
+.sub-btn {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.require-msg {
+  color: red;
+}
+
+.page-2-cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.submit-button {
+  background-color: #ea580c;
+  border: none;
+  padding: 5px;
+  width: 150px;
+  border-radius: 5px;
+  color: #ffffff;
+}
